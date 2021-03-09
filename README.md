@@ -1,8 +1,8 @@
 # properati
-Price prediction in Buenos Aires.
+Property price prediction in Buenos Aires.
 
 
-Project separate in 2 jupyter notebook's.
+The Project is separated in 2 jupyter notebook's.
 
 
 - EDA: Exploratory Data Analysis
